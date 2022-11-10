@@ -8,3 +8,11 @@
   width: 100%;
   border: 1px solid white;
 }
+
+#footer-up{
+  background-color: darkslateblue;
+}
+
+#footer-down{
+  background-color: purple;
+}
