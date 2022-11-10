@@ -1,5 +1,5 @@
 .my-green{
-  background-color: green;
+  background-color: #1abc9c;
 }
 
 .my-box{
@@ -10,9 +10,9 @@
 }
 
 #footer-up{
-  background-color: darkslateblue;
+  background-color: #3a546d;
 }
 
 #footer-down{
-  background-color: purple;
+  background-color: #2c3e50;
 }
