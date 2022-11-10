@@ -1,0 +1,10 @@
+.my-green{
+  background-color: green;
+}
+
+.my-box{
+  background-color: darkblue;
+  height: 100px;
+  width: 100%;
+  border: 1px solid white;
+}
