@@ -19,6 +19,12 @@ header,
   color: white;
 }
 
-button{
-  background-color: white;
+#footer-up i{
+  width: 2rem;
+  height: 2rem;
+  line-height: 2rem;
+}
+
+#footer-up a{
+  color: #1abc9c;
 }
