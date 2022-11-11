@@ -1,4 +1,5 @@
-.my-green{
+.my-green,
+.btn-success{
   background-color: #1abc9c;
 }
 
@@ -20,9 +21,9 @@ header,
 }
 
 #footer-up i{
-  width: 2rem;
-  height: 2rem;
-  line-height: 2rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  line-height: 2.5rem;
 }
 
 #footer-up a{
